@@ -1,6 +1,3 @@
-# OpenAIVoice
-
-
 # OpenAI Voice Assistant Project
 
 This project is a voice assistant application built using OpenAI's language model and Flask web framework. The application allows users to interact with the AI assistant through voice commands and receive spoken responses.
