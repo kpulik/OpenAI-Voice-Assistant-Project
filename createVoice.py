@@ -1,7 +1,7 @@
 import pickle
 from elevenlabs import clone, set_api_key
 
-set_api_key("d59625851cc4affc1bba4c2fe8c0a99a")  # Eleven labs
+set_api_key("")  # Eleven labs API key here
 
 try:
     with open('voice.pickle', 'rb') as f:
